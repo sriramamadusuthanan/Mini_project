@@ -26,7 +26,7 @@ A simple and responsive weather application built using:
 ## How to Run
 1. Clone the repo
 2. Open in your IDE
-3. Add your OpenWeather API key in `Weather_Servies.java`
+3. Add your OpenWeather API key in application.properties
 4. Run the Spring Boot application
 
 ## API Reference
