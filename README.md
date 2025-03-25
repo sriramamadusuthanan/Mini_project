@@ -18,7 +18,8 @@ A simple and responsive weather application built using:
 ## Demo
 - realtime weather featch with help of openWeather 
 
-<img src="![Screenshot 2025-03-25 114442](https://github.com/user-attachments/assets/21582ca2-1e1b-4eb1-b4a2-04d4446e28bf)" alt="screenshot1" width="500"/>
+<img src="![Screenshot 2025-03-25 114442](https://github.com/user-attachments/assets/84549644-434f-413a-953f-ee0b930e34c2)
+" alt="screenshot1" width="500"/>
 -when a city name is misspelled or not city in that name
 ![Screenshot 2025-03-25 114601](https://github.com/user-attachments/assets/7c1401a6-a389-4385-b554-451f13adfa16)
 
