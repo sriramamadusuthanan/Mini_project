@@ -16,7 +16,12 @@ A simple and responsive weather application built using:
 - Error handling if city not found
 
 ## Demo
-> Add a screenshot or GIF here (optional)
+- realtime weather featch with help of openWeather 
+![Screenshot 2025-03-25 114442](https://github.com/user-attachments/assets/21582ca2-1e1b-4eb1-b4a2-04d4446e28bf)
+-when a city name is misspelled or not city in that name
+![Screenshot 2025-03-25 114601](https://github.com/user-attachments/assets/7c1401a6-a389-4385-b554-451f13adfa16)
+
+
 
 ## How to Run
 1. Clone the repo
