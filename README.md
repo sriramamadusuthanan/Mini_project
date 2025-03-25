@@ -16,11 +16,13 @@ A simple and responsive weather application built using:
 - Error handling if city not found
 
 ## Demo
-- realtime weather featch with help of openWeather 
+- # Realtime weather featch with help of openWeather 
 
 <img src="./images/Screenshot 2025-03-25 114442.png" alt="screenshot1" width="500"/>
--when a city name is misspelled or not city in that name
-<img src="./images/Screenshot 2025-03-25 1144601.png" alt="screenshot1" width="500"/>
+
+- # When a city name is misspelled or not city in that name
+- 
+<img src="./images/Screenshot 2025-03-25 114601.png" alt="screenshot1" width="500"/>
 
 
 
