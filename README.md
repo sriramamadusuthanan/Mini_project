@@ -12,7 +12,7 @@ This repository has java mini project mainly (spring boot API)
 
 📄 Documentation
 
-[📥 Download Resume (PDF)](images/Bulk Mail.pdf)
+[📥 Download Resume (PDF)](images/BulkMail.pdf)
 # Task Manager
 
 A Simple task Manager with proper way to 
