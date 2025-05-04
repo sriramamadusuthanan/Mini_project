@@ -8,6 +8,11 @@ This repository has java mini project mainly (spring boot API)
 3.Api which helps to send bulk mail for maraketing purposes.
 
 
+# Bulk_MailSender
+
+📄 Documentation
+
+[📥 Download Resume (PDF)](image/BulkMail.pdf)
 # Task Manager
 
 A Simple task Manager with proper way to 
