@@ -4,7 +4,10 @@ This repository has java mini project mainly (spring boot API)
 1.A simple weather application built with Spring Boot, Thymeleaf, and OpenWeather API.
 
 2.A simple Task Manager (To-do List)  application built with Spring Boot which includes 
-validation, Login using PIN, and manual session.
+
+3.Api which helps to send bulk mail for maraketing purposes.
+
+
 # Task Manager
 
 A Simple task Manager with proper way to 
